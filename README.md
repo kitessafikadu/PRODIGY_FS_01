@@ -4,7 +4,7 @@
 ## Project Overview
 
 This project implements a secure authentication system using React for the frontend, Django for the backend, and JWT (JSON Web Tokens) for user authentication. 
-It was developed during my full-stack development internship at Prodigy Infotech. The system includes user registration, login, and token-based authorization 
+It was developed during my full-stack development internship at [Prodigy Infotech](https://prodigyinfotech.dev/). The system includes user registration, login, and token-based authorization 
 to manage secure access to protected resources.
 
 ## Features
@@ -17,12 +17,12 @@ to manage secure access to protected resources.
 
 ## Tech Stack
 ### Frontend
--React
--React Router DOM (for navigation)
--Axios (for API communication)
--Tailwind CSS (for styling)
+- React
+- React Router DOM (for navigation)
+- Axios (for API communication)
+- Tailwind CSS (for styling)
 
 ### Backend
--Django
--Django Rest Framework (DRF)
--SimpleJWT (for JWT handling)
+- Django
+- Django Rest Framework (DRF)
+- SimpleJWT (for JWT handling)
